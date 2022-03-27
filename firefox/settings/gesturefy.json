@@ -1,0 +1,170 @@
+{
+  "Gestures": [
+    {
+      "command": {
+        "name": "URLLevelUp"
+      },
+      "pattern": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "ScrollBottom",
+        "settings": {
+          "duration": 100
+        }
+      },
+      "pattern": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "ScrollTop",
+        "settings": {
+          "duration": 100
+        }
+      },
+      "pattern": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "RestoreTab",
+        "settings": {
+          "currentWindow": false
+        }
+      },
+      "pattern": [
+        [
+          0,
+          1
+        ],
+        [
+          -1,
+          0
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "CloseTab",
+        "settings": {
+          "nextFocus": "default",
+          "closePinned": true
+        }
+      },
+      "pattern": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "StopLoading"
+      },
+      "pattern": [
+        [
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "ReloadTab",
+        "settings": {
+          "cache": false
+        }
+      },
+      "pattern": [
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "command": {
+        "name": "NewTab",
+        "settings": {
+          "position": "default",
+          "focus": true
+        }
+      },
+      "pattern": [
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "Settings": {
+    "Gesture": {
+      "Trace": {
+        "display": false
+      },
+      "Command": {
+        "display": false
+      }
+    },
+    "General": {
+      "updateNotification": false
+    },
+    "Rocker": {
+      "active": true
+    },
+    "Wheel": {
+      "active": true,
+      "mouseButton": "2",
+      "wheelUp": {
+        "name": "FocusLeftTab",
+        "settings": {
+          "cycling": true,
+          "excludeDiscarded": false
+        }
+      },
+      "wheelDown": {
+        "name": "FocusRightTab",
+        "settings": {
+          "cycling": true,
+          "excludeDiscarded": false
+        }
+      }
+    }
+  }
+}

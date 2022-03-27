@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\7-Zip.7z\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.bz2\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.gz\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.lzh\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.rar\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.tar\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.xz\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"
+
+[HKEY_CLASSES_ROOT\7-Zip.zip\DefaultIcon]
+@="C:\\Windows\\System32\\zipfldr.dll,-101"

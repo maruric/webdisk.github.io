@@ -1,0 +1,130 @@
+[
+  {
+    "key": "ctrl+up",
+    "command": "cursorTop",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+down",
+    "command": "cursorBottom",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+left",
+    "command": "cursorHome",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+right",
+    "command": "cursorEnd",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+up",
+    "command": "cursorTopSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+down",
+    "command": "cursorBottomSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+left",
+    "command": "cursorHomeSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+right",
+    "command": "cursorEndSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "alt+left",
+    "command": "cursorWordStartLeft",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "alt+right",
+    "command": "cursorWordEndRight",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "shift+alt+left",
+    "command": "cursorWordStartLeftSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "shift+alt+right",
+    "command": "cursorWordEndRightSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+numpad_add",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "shift+ctrl+=",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "ctrl+=",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "ctrl+numpad_subtract",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "shift+ctrl+-",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "ctrl+-",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "ctrl+numpad0",
+    "command": "editor.action.fontZoomReset"
+  },
+  {
+    "key": "ctrl+0",
+    "command": "editor.action.fontZoomReset"
+  },
+  {
+    "key": "cmd+numpad_add",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "shift+cmd+=",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "cmd+=",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "cmd+[Semicolon]",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "cmd+numpad_subtract",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "shift+cmd+-",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "cmd+-",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "cmd+numpad0",
+    "command": "editor.action.fontZoomReset"
+  },
+  {
+    "key": "cmd+0",
+    "command": "editor.action.fontZoomReset"
+  }
+]

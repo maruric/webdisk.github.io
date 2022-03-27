@@ -1,0 +1,60 @@
+{
+  "default": [
+    {
+      "expression": "_Default:WHITE",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage",
+        "IndexedDB",
+        "Cache"
+      ],
+      "cookieNames": [],
+      "id": "zOQxAhUma2"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "5epsY8mXD"
+    },
+    {
+      "expression": "feedly.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "Cache",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "lf6q4X7QVX"
+    },
+    {
+      "expression": "my.jreast.co.jp",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "t_LBOKRipz"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+! Title: Domains filter
+@@||hb.afl.rakuten.co.jp^
+@@||lt-click.tr.line.me^
+@@||valuecommerce.com^
+@@||valuecommerce.ne.jp^
+||yads.c.yimg.jp^

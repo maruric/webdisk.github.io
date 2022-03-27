@@ -1,0 +1,67 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.fontFamily": "Source Han Mono, Source Han Sans HW, monospace",
+  "editor.fontWeight": "normal",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.unicodeHighlight.includeComments": true,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll"
+  ],
+  "files.eol": "\n",
+  "files.hotExit": "off",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "window.menuBarVisibility": "toggle",
+  "window.restoreWindows": "none",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Chester Atom",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#80808040",
+    "editor.selectionHighlightBackground": "#80808040",
+    "editorWhitespace.foreground": "#80808080",
+    "statusBar.background": "#222a34",
+    "statusBar.noFolderBackground": "#222a34",
+    "statusBar.debuggingBackground": "#222a34"
+  },
+  "[plaintext]": {
+    "editor.unicodeHighlight.invisibleCharacters": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "python.linting.pylintCategorySeverity.refactor": "Warning",
+  "python.linting.pylintUseMinimalCheckers": false,
+  "markdownlint.config": {
+    "MD024": {
+      "siblings_only": true
+    }
+  },
+  "markdown-pdf.outputDirectory": "~/Desktop",
+  "markdown-pdf.scale": 1,
+  "markdown-pdf.displayHeaderFooter": true,
+  "markdown-pdf.headerTemplate": "<div />",
+  "markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"><span class='pageNumber'></span> / <span class='totalPages'></span></div>"
+}

@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+/* change blank page color */
+@-moz-document url("about:blank") {
+  * {
+    background-color: #181A1B !important
+  }
+}

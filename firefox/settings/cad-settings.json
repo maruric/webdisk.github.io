@@ -1,0 +1,12 @@
+{
+  "settings": [
+    {
+      "name": "activeMode",
+      "value": true
+    },
+    {
+      "name": "delayBeforeClean",
+      "value": 2147483
+    }
+  ]
+}

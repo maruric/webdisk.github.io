@@ -147,7 +147,8 @@ adb shell settings put secure show_rotation_suggestions 0
 
 ### Xiaomi
 
-- [XIAOMI.EU MIUI ROM Releases](https://xiaomi.eu/community/forums/miui-rom-releases.103/)
+- [XIAOMI.EU](https://xiaomi.eu/community/forums/miui-rom-releases.103/)
+- [XDA Forums](https://forum.xda-developers.com/c/xiaomi.12005/)
 
 ### Xiaomi Redmi Note 11
 

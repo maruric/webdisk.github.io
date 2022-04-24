@@ -1,4 +1,5 @@
 ! Title: Domains filter
+@@||googleadservices.com^
 @@||hb.afl.rakuten.co.jp^
 @@||lt-click.tr.line.me^
 @@||valuecommerce.com^

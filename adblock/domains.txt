@@ -4,4 +4,5 @@
 @@||lt-click.tr.line.me^
 @@||valuecommerce.com^
 @@||valuecommerce.ne.jp^
+@@|aax-fe.amazon-adsystem.com^
 ||yads.c.yimg.jp^

@@ -1,8 +1,8 @@
 ! Title: Domains filter
+@@||aax-fe.amazon-adsystem.com^
 @@||googleadservices.com^
 @@||hb.afl.rakuten.co.jp^
 @@||lt-click.tr.line.me^
 @@||valuecommerce.com^
 @@||valuecommerce.ne.jp^
-@@|aax-fe.amazon-adsystem.com^
 ||yads.c.yimg.jp^

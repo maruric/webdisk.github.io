@@ -153,9 +153,10 @@ adb shell settings put secure show_rotation_suggestions 0
 ### Xiaomi Redmi Note 11
 
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/firmware/spes/)
+- [XDA Forums](https://forum.xda-developers.com/f/redmi-note-11-spes-spesn.12617/)
 
 ### Xiaomi Redmi 9T
 
-- [OrangeFox Recovery](https://forum.xda-developers.com/t/recovery-unofficial-r11-x-orangefox-recovery-project-for-poco-m3-redmi-9t-redmi-note-9-4g-redmi-9-power-juice-unified.4336509/)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/firmware/lime/)
+- [XDA Forums](https://forum.xda-developers.com/f/poco-m3-roms-kernels-recoveries-other-develop.11969/)
 - [Pixel Extended](https://forum.xda-developers.com/t/rom-official-a12-pixel-extended-4-1-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4393915/)

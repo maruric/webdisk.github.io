@@ -14,10 +14,7 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": false,
   "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": [
-    "source.organizeImports",
-    "source.fixAll"
-  ],
+  "editor.codeActionsOnSave": ["source.fixAll"],
   "files.eol": "\n",
   "files.hotExit": "off",
   "files.insertFinalNewline": true,
@@ -40,14 +37,23 @@
   "[plaintext]": {
     "editor.unicodeHighlight.invisibleCharacters": true
   },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[markdown]": {
-    "files.trimTrailingWhitespace": false
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dart]": {
+    "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"]
   },
   "[python]": {
     "editor.tabSize": 4

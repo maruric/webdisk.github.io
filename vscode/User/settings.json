@@ -37,6 +37,9 @@
   "[plaintext]": {
     "editor.unicodeHighlight.invisibleCharacters": true
   },
+  "[tsv]": {
+    "editor.insertSpaces": false
+  },
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   },

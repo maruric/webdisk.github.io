@@ -50,7 +50,7 @@ scripts: replace-google-play-links.mjs
 
 - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 - [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
-- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+- [Flashcards Deluxe](https://play.google.com/store/apps/details?id=com.orangeorapple.flashcards)
 - [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
 
 ### Phone

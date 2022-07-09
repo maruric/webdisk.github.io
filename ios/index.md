@@ -42,7 +42,7 @@ order: 4
 
 - [Gmail](https://apps.apple.com/jp/app/id422689480)
 - [LINE](https://apps.apple.com/jp/app/id443904275)
-- [AnkiMobile Flashcards](https://apps.apple.com/jp/app/id373493387)
+- [Flashcards Deluxe](https://apps.apple.com/jp/app/id307840670)
 - [Google Fit](https://apps.apple.com/jp/app/id1433864494)
 
 ### Phone

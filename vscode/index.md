@@ -43,9 +43,17 @@ code --install-extension bierner.markdown-mermaid
 ### Developmment
 
 ```console
+# Git
+code --install-extension donjayamanne.githistory
+
+# Node
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension esbenp.prettier-vscode
-code --install-extension donjayamanne.githistory
+
+# Rust
+code --install-extension rust-lang.rust-analyzer
+
+# Dart
 code --install-extension Dart-Code.dart-code
 ```
 

@@ -55,6 +55,9 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[rust]": {
+    "editor.tabSize": 4
+  },
   "[dart]": {
     "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"]
   },

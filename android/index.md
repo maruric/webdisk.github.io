@@ -37,6 +37,7 @@ scripts: replace-google-play-links.mjs
   - [Plus License Key](https://play.google.com/store/apps/details?id=nextapp.fx.rk)
 - [Google フォト](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - カメラ
+  - [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 - [Google 認証システム](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
 ### 3
@@ -80,24 +81,32 @@ scripts: replace-google-play-links.mjs
 - [PayPay](https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app)
 - [楽天ペイ](https://play.google.com/store/apps/details?id=jp.co.rakuten.pay)
 - [メルカリ](https://play.google.com/store/apps/details?id=com.kouzoh.mercari)
-- [JRE POINT アプリ](https://play.google.com/store/apps/details?id=jp.co.jreast.jrepoint)
-- [dポイントクラブ](https://play.google.com/store/apps/details?id=com.nttdocomo.android.dpoint)
-
-### Service
-
-- [住信SBIネット銀行](https://play.google.com/store/apps/details?id=jp.co.netbk)
-- [MyEdenred](https://play.google.com/store/apps/details?id=com.edenred.eq.myedenred)
-- [えきねっとアプリ](https://play.google.com/store/apps/details?id=com.net.eki.app)
-- [ノハナ](https://play.google.com/store/apps/details?id=jp.co.nohana)
-- [マルエツチラシアプリ](https://play.google.com/store/apps/details?id=com.maruetsu.maruetsu_app)
-- [マクドナルド](https://play.google.com/store/apps/details?id=jp.co.mcdonalds.android)
 
 ### Point
 
 - [Coke ON](https://play.google.com/store/apps/details?id=com.coke.cokeon)
 - [Google アンケート モニター](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
+- [dポイントクラブ](https://play.google.com/store/apps/details?id=com.nttdocomo.android.dpoint)
+- [JRE POINT アプリ](https://play.google.com/store/apps/details?id=jp.co.jreast.jrepoint)
 
-### Movie
+### Service
+
+- [住信SBIネット銀行](https://play.google.com/store/apps/details?id=jp.co.netbk)
+- [MyEdenred](https://play.google.com/store/apps/details?id=com.edenred.eq.myedenred)
+
+### Contents
+
+#### Book
+
+- [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
+- [読書尚友](https://play.google.com/store/apps/details?id=info.ebstudio.bookviewer.pro)
+- [dマガジン](https://play.google.com/store/apps/details?id=com.nttdocomo.dmagazine)
+- [SideBooks](https://play.google.com/store/apps/details?id=jp.co.tokyo_ip.SideBooks)
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
+  - [PDF&DJVUプラグイン](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin)
+  - [寄付](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate)
+
+#### Movie
 
 - [torne mobile](https://play.google.com/store/apps/details?id=com.playstation.tornemobile)
 - [Video & TV SideView](https://play.google.com/store/apps/details?id=com.sony.tvsideview.phone)
@@ -110,28 +119,18 @@ scripts: replace-google-play-links.mjs
   - [NewPipe](https://newpipe.net/)
   - [SmartTubeNext](https://smartyoutubetv.github.io/)
 
-### Music
+#### Music
 
 - [Apple Music](https://play.google.com/store/apps/details?id=com.apple.android.music)
 - [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
 
-### Book
-
-- [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
-- [読書尚友](https://play.google.com/store/apps/details?id=info.ebstudio.bookviewer.pro)
-- [dマガジン](https://play.google.com/store/apps/details?id=com.nttdocomo.dmagazine)
-- [SideBooks](https://play.google.com/store/apps/details?id=jp.co.tokyo_ip.SideBooks)
-- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
-  - [PDF&DJVUプラグイン](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.pdfplugin)
-  - [寄付](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer.donate)
-
 ### Photo
 
-- [GCam Port: BSG apks](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/)
 - [Amazon Photos](https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos)
 - [RICOH THETA](https://play.google.com/store/apps/details?id=com.theta360)
 - [THETA+](https://play.google.com/store/apps/details?id=com.thetaplus)
 - [GoPro Quik](https://play.google.com/store/apps/details?id=com.gopro.smarty)
+- [ノハナ](https://play.google.com/store/apps/details?id=jp.co.nohana)
 
 ### Info
 

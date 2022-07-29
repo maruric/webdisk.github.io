@@ -74,8 +74,22 @@ order: 4
 ### Point
 
 - [Coke ON](https://apps.apple.com/jp/app/id1088184021)
+- [dポイントクラブ](https://apps.apple.com/jp/app/id821434357)
+- [JRE POINT アプリ](https://apps.apple.com/jp/app/id1081293054)
 
-### Movie
+### Service
+
+- [住信SBIネット銀行](https://apps.apple.com/jp/app/id436755036)
+- [MyEdenred](https://apps.apple.com/jp/app/id1443589821)
+
+### Contents
+
+#### Book
+
+- [Kindle](https://apps.apple.com/jp/app/id302584613)
+- [dマガジン](https://apps.apple.com/jp/app/id859681456)
+
+#### Movie
 
 - [torne mobile](https://apps.apple.com/jp/app/id949323340)
 - [Video & TV SideView](https://apps.apple.com/jp/app/id594171390)
@@ -83,7 +97,7 @@ order: 4
 - [TVer](https://apps.apple.com/jp/app/id830340223)
 - [YouTube](https://apps.apple.com/jp/app/id544007664)
 
-### Music
+#### Music
 
 - [Amazon Music](https://apps.apple.com/jp/app/id510855668)
 - [Apple Music](https://apps.apple.com/jp/app/id1108187390)
@@ -91,8 +105,3 @@ order: 4
 ### Photo
 
 - [Amazon Photos](https://apps.apple.com/jp/app/id621574163)
-
-### Book
-
-- [Kindle](https://apps.apple.com/jp/app/id302584613)
-- [dマガジン](https://apps.apple.com/jp/app/id859681456)

@@ -9,6 +9,7 @@
 search.yahoo.co.jp##.AD__SSList
 search.yahoo.co.jp##.SS_SS__3DT4t
 www.google.co.jp###tvcap
+www.google.co.jp##[data-text-ad="1"]
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-search-pyv-renderer
 youtube.com###masthead-ad

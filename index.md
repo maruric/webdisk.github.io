@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign pages = (site.pages | sort: "order") %}
+{% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
 {% if page.order %}
 

@@ -1,7 +1,11 @@
 ! Title: Domains filter
 ||aaacompany.net^
+||adingo.jp^
+||adpon.jp^
 ||adsmoloco.com^
 ||doubleclick.net^
+||fam-8.net^
+||genieesspv.jp^
 ||mfadsrvr.com^
 ||microad.net^
 ||outbrain.com^
@@ -9,4 +13,5 @@
 ||smartnews-ads.com^
 ||socdm.com^
 ||taboola.com^
+||thench.net^
 ||yads.c.yimg.jp^

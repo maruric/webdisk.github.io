@@ -32,7 +32,9 @@ order: 6
 
 ```text
 [*.]google.com
-[*.]microsoftonline.com
+idmsa.apple.com
+login.microsoftonline.com
+my.jreast.co.jp
 ```
 
 ### Deny

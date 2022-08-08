@@ -1,6 +1,8 @@
 ! Title: Domains filter
+||aaacompany.net^
 ||adsmoloco.com^
 ||mfadsrvr.com^
+||microad.net^
 ||smartnews-ads.com^
 ||socdm.com^
 ||yads.c.yimg.jp^

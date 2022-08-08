@@ -8,4 +8,5 @@
 ||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^
+||taboola.com^
 ||yads.c.yimg.jp^

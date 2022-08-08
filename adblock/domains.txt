@@ -4,7 +4,8 @@
 ||doubleclick.net^
 ||mfadsrvr.com^
 ||microad.net^
+||outbrain.com^
+||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^
 ||yads.c.yimg.jp^
-||smac-ad.com^

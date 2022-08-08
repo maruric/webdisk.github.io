@@ -1,31 +1,45 @@
 ---
 layout: default
-title: Firefox
+title: Browser
 order: 6
 ---
 
-## Add-ons
 
-### Common
+## Extension
+
+### Chrome
+
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+- [Clean All](https://chrome.google.com/webstore/detail/elidgjfpciimeeeoeneeiifkmhadhkeh)
+- [miniGestures](https://chrome.google.com/webstore/detail/apnjnepphihnjahpbfjiebcnpgmjnhfp)
+
+### Firefox
 
 - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
 - [Dark Reader](https://addons.mozilla.org/ja/firefox/addon/darkreader/)
 - [YouTube High Definition](https://addons.mozilla.org/ja/firefox/addon/youtube-high-definition/)
-
-### Desktop
-
 - [Gesturefy](https://addons.mozilla.org/firefox/addon/gesturefy/)
-- [Cookie AutoDelete](https://addons.mozilla.org/firefox/addon/cookie-autodelete/)
+  - [Gesturefy settings](settings/gesturefy.json)
 - [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/uaswitcher/)
 - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
 
 ## Search Plugins
 
-## Addon Settings
+## Cookie Exclusion
 
-- [Cookie AutoDelete settings](settings/cad-settings.json)
-- [Cookie AutoDelete expressions](settings/cad-expressions.json)
-- [Gesturefy settings](settings/gesturefy.json)
+### Allow
+
+```text
+[*.]google.com
+[*.]microsoftonline.com
+```
+
+### Deny
+
+```text
+[*.]google.co.jp
+```
 
 ## Profile Settings
 

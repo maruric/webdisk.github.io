@@ -10,10 +10,13 @@
 ||mangaadpf.jp^
 ||mfadsrvr.com^
 ||microad.net^
+||okbp.xyz^
 ||outbrain.com^
+||realsrv.com^
 ||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^
 ||taboola.com^
 ||thench.net^
+||vlitag.com^
 ||yads.c.yimg.jp^

@@ -3,6 +3,7 @@
 ||adingo.jp^
 ||adpon.jp^
 ||adsmoloco.com^
+||affiliate.rakuten.co.jp^
 ||doubleclick.net^
 ||fam-8.net^
 ||fivecdm.com^
@@ -10,6 +11,8 @@
 ||mangaadpf.jp^
 ||mfadsrvr.com^
 ||microad.net^
+||moshimo.com^
+||msmstatic.com^
 ||okbp.xyz^
 ||outbrain.com^
 ||realsrv.com^

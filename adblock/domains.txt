@@ -22,4 +22,5 @@
 ||taboola.com^
 ||thench.net^
 ||vlitag.com^
+||widget-view.dmm.co.jp^
 ||yads.c.yimg.jp^

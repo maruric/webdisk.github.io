@@ -1,4 +1,4 @@
-! Title: Domains filter2
+! Title: Domains filter
 ||aaacompany.net^
 ||adingo.jp^
 ||adpon.jp^

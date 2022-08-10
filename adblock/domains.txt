@@ -1,11 +1,14 @@
 ! Title: Domains filter
 ||aaacompany.net^
+||ad-nex.com^
+||ad.duga.jp^
 ||adingo.jp^
 ||adpon.jp^
 ||adsmoloco.com^
 ||affiliate.rakuten.co.jp^
 ||doubleclick.net^
 ||fam-8.net^
+||fam-ad.com^
 ||fivecdm.com^
 ||genieesspv.jp^
 ||mangaadpf.jp^

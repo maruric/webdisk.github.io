@@ -11,13 +11,14 @@ order: 1
 ### Browser
 
 ```console
-winget install --exact --id=Mozilla.Firefox
 winget install --exact --id=Google.Chrome
+winget install --exact --id=Mozilla.Firefox
 ```
 
 ### Tool
 
 ```console
+winget install --exact --id=Microsoft.WindowsTerminal
 winget install --exact --id=7zip.7zip
 winget install --exact --id=Balena.Etcher
 ```

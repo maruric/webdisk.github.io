@@ -6,6 +6,7 @@
 ||adpon.jp^
 ||adsmoloco.com^
 ||affiliate.rakuten.co.jp^
+||boost-next.co.jp^
 ||doubleclick.net^
 ||fam-8.net^
 ||fam-ad.com^
@@ -18,6 +19,7 @@
 ||msmstatic.com^
 ||okbp.xyz^
 ||outbrain.com^
+||pc-adroute.focas.jp^
 ||realsrv.com^
 ||smac-ad.com^
 ||smartnews-ads.com^

@@ -71,6 +71,7 @@ brew install git
 brew cask install sourcetree
 brew install anyenv
 brew cask install docker
+brew install rustup
 ```
 
 ### Font

@@ -1,6 +1,7 @@
 ! Title: Domains filter
 ||aaacompany.net^
 ||ad-nex.com^
+||ad-stir.com^
 ||ad.duga.jp^
 ||adingo.jp^
 ||adpon.jp^

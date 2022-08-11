@@ -42,9 +42,3 @@ my.jreast.co.jp
 ```text
 [*.]google.co.jp
 ```
-
-## Profile Settings
-
-- [user.js](profile/user.js)
-- [userChrome.css](profile/chrome/userChrome.css)
-- [userContent.css](profile/chrome/userContent.css)

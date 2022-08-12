@@ -7,6 +7,8 @@
 ||adpon.jp^
 ||adsmoloco.com^
 ||affiliate.rakuten.co.jp^
+||afl.rakuten.co.jp^
+||amazon-adsystem.com^
 ||boost-next.co.jp^
 ||doubleclick.net^
 ||fam-8.net^

@@ -1,4 +1,5 @@
 ! Title: Elements filter
+||accounts.google.com^$third-party
 ||youtube.com/api/stats/atr
 ||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/qoe?

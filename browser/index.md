@@ -26,19 +26,9 @@ order: 6
 
 ## Search Plugins
 
-## Cookie Exclusion
+## Cookie Exclusions
 
-### Allow
-
-```text
-accounts.google.com
-idmsa.apple.com
-login.microsoftonline.com
-my.jreast.co.jp
-```
-
-### Deny
-
-```text
-[*.]google.co.jp
-```
+- accounts.google.com
+- idmsa.apple.com
+- login.microsoftonline.com
+- my.jreast.co.jp

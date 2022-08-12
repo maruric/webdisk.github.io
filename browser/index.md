@@ -9,9 +9,9 @@ order: 6
 
 ### Chrome
 
+- [Clean All](https://chrome.google.com/webstore/detail/elidgjfpciimeeeoeneeiifkmhadhkeh)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
-- [Clean All](https://chrome.google.com/webstore/detail/elidgjfpciimeeeoeneeiifkmhadhkeh)
 - [miniGestures](https://chrome.google.com/webstore/detail/apnjnepphihnjahpbfjiebcnpgmjnhfp)
 
 ### Firefox

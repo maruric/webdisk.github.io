@@ -31,7 +31,7 @@ order: 6
 ### Allow
 
 ```text
-[*.]google.com
+accounts.google.com
 idmsa.apple.com
 login.microsoftonline.com
 my.jreast.co.jp

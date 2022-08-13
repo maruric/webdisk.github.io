@@ -10,6 +10,7 @@
 ||afl.rakuten.co.jp^
 ||amazon-adsystem.com^
 ||boost-next.co.jp^
+||caprofitx.com^
 ||doubleclick.net^
 ||fam-8.net^
 ||fam-ad.com^

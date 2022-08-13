@@ -3,6 +3,7 @@
 ||ad-nex.com^
 ||ad-stir.com^
 ||ad.duga.jp^
+||adapf.com^
 ||adingo.jp^
 ||adpon.jp^
 ||adsmoloco.com^
@@ -16,6 +17,7 @@
 ||fam-ad.com^
 ||fivecdm.com^
 ||genieesspv.jp^
+||googlesyndication.com^
 ||mangaadpf.jp^
 ||mfadsrvr.com^
 ||microad.net^
@@ -28,6 +30,7 @@
 ||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^
+||speee-ad.jp^
 ||taboola.com^
 ||thench.net^
 ||vlitag.com^

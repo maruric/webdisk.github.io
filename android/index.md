@@ -141,7 +141,15 @@ scripts: replace-google-play-links.mjs
 ### ADB Settings
 
 ```console
+# Disable rotation suggestion
 adb shell settings put secure show_rotation_suggestions 0
+
+# Enable private dns
+adb shell settings put global private_dns_mode hostname
+adb shell settings put global private_dns_specifier ${DOMAIN}
+
+# Disable private dns
+adb shell settings put global private_dns_mode off
 ```
 
 ### Xiaomi

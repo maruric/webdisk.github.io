@@ -20,6 +20,7 @@
 ||glssp.net^
 ||googlesyndication.com^
 ||i-mobile.co.jp^
+||logly.co.jp^
 ||mangaadpf.jp^
 ||mfadsrvr.com^
 ||microad.net^
@@ -28,12 +29,14 @@
 ||okbp.xyz^
 ||outbrain.com^
 ||pc-adroute.focas.jp^
+||popin.cc^
 ||realsrv.com^
 ||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^
 ||speee-ad.jp^
 ||taboola.com^
+||taxel.jp^
 ||thench.net^
 ||vlitag.com^
 ||widget-view.dmm.co.jp^

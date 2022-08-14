@@ -10,6 +10,7 @@
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
 ||amazon-adsystem.com^
+||appollo-plus.com^
 ||boost-next.co.jp^
 ||caprofitx.com^
 ||doubleclick.net^

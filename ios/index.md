@@ -6,13 +6,13 @@ order: 4
 
 ## Applications
 
-### System
-
-- [Google Chrome](https://apps.apple.com/jp/app/id535886823)
 
 ### Dock
 
-- [Firefox](https://apps.apple.com/jp/app/id989804926)
+- ブラウザ
+  - [Google Chrome](https://apps.apple.com/jp/app/id535886823)
+  - [Firefox](https://apps.apple.com/jp/app/id989804926)
+  - [Brave](https://apps.apple.com/jp/app/id1052879175)
 - [Google Keep](https://apps.apple.com/jp/app/id1029207872)
 - [Googleカレンダー](https://apps.apple.com/jp/app/id909319292)
 - [Zaim](https://apps.apple.com/jp/app/id445850671)

@@ -13,13 +13,14 @@ scripts: replace-google-play-links.mjs
   - [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
 - [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton)
 - [壁紙](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
-- [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
-- [Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer)
 - [デバイスを探す](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
 
 ### Dock
 
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+- ブラウザ
+  - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
+  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser)
 - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 - [Googleカレンダー](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 - [Zaim](https://play.google.com/store/apps/details?id=net.zaim.android)

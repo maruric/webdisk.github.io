@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+html {
+  background-color: #181a1b;
+}
+
 .page-header {
   display: flex;
   justify-content: center;

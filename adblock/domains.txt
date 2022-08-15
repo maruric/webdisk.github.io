@@ -1,5 +1,6 @@
 ! Title: Domains filter
 ||aaacompany.net^
+||aag.yahooapis.jp^
 ||ad-nex.com^
 ||ad-stir.com^
 ||ad.duga.jp^

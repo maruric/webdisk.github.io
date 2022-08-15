@@ -26,7 +26,8 @@ order: 6
 
 ## Search Plugins
 
-- [Google](/?search-title=Google&search-href=%2Fassets%2Fsearchplugins%2Fgoogle.xml)
+- [Google](/?search-title=Google&search-href=/assets/searchplugins/google.xml)
+- [Yahoo!検索](/?search-title=Yahoo!検索&search-href=/assets/searchplugins/yahoo.xml)
 
 ## Cookie Exclusions
 

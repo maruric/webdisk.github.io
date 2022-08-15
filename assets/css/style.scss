@@ -1,13 +1,17 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 $border-color: #233b52;
 $code-bg-color: #1d1f20;
 
+@import "{{ site.theme }}";
+
 html {
   background-color: #181a1b;
+}
+
+.highlight {
+  background-color: #1d1f20;
 }
 
 .page-header {

@@ -7,8 +7,9 @@ order: 5
 
 ### System
 
-```console
-code --install-extension MS-CEINTL.vscode-language-pack-ja
+```diff
++ code --install-extension MS-CEINTL.vscode-language-pack-ja
+- faefa
 ```
 
 ### Display

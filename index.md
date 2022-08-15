@@ -1,5 +1,6 @@
 ---
 layout: default
+scripts: add-opensearch-link.mjs
 ---
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}

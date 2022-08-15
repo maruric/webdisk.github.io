@@ -10,7 +10,10 @@
     <link rel="icon" type="image/svg+xml" sizes="any" href="/assets/images/favicon.svg">
     <link rel="apple-touch-icon" sizes="256x256" href="/assets/images/favicon.png">
     <script src="https://cdn.jsdelivr.net/npm/darkreader@latest/darkreader.min.js"></script>
-    <script>DarkReader.auto({ brightness: 100, contrast: 90, sepia: 10 });</script>
+    <script>
+      DarkReader.setFetchMethod(window.fetch);
+      DarkReader.auto({ brightness: 100, contrast: 90, sepia: 10 });
+    </script>
     {% for script in page.scripts %}
     <script type="module" src="/assets/scripts/{{ script }}"></script>
     {% endfor %}

@@ -1,4 +1,4 @@
-function replaceLinks() {
+function main() {
   if (!navigator.userAgent.includes('Android')) {
     return;
   }
@@ -10,4 +10,4 @@ function replaceLinks() {
   }
 }
 
-replaceLinks();
+main();

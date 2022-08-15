@@ -9,11 +9,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" type="image/svg+xml" sizes="any" href="/assets/images/favicon.svg">
     <link rel="apple-touch-icon" sizes="256x256" href="/assets/images/favicon.png">
-    <script type="module" src="/assets/scripts/opensearch.mjs"></script>
-    {% if page.mermaid %}
-    <script src="https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js"></script>
-    <script type="module" src="/assets/scripts/render-mermaid.mjs"></script>
-    {% endif %}
     {% for script in page.scripts %}
     <script type="module" src="/assets/scripts/{{ script }}"></script>
     {% endfor %}

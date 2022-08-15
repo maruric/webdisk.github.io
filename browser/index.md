@@ -26,6 +26,8 @@ order: 6
 
 ## Search Plugins
 
+- [Google](/?search-title=Google&search-href=%2Fassets%2Fsearchplugins%2Fgoogle.xml)
+
 ## Cookie Exclusions
 
 - accounts.google.com

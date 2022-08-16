@@ -16,6 +16,7 @@
 ||caprofitx.com^
 ||cxense.com^
 ||doubleclick.net^
+||exosrv.com^
 ||fam-8.net^
 ||fam-ad.com^
 ||fivecdm.com^
@@ -35,6 +36,7 @@
 ||outbrain.com^
 ||pc-adroute.focas.jp^
 ||popin.cc^
+||ptgncdn.com^
 ||realsrv.com^
 ||rtbrennab.com^
 ||smac-ad.com^

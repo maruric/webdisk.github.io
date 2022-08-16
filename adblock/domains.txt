@@ -44,6 +44,8 @@
 ||taboola.com^
 ||taxel.jp^
 ||thench.net^
+||trafficjunky.com^
+||trafficjunky.net^
 ||vlitag.com^
 ||widget-view.dmm.co.jp^
 ||yads.c.yimg.jp^

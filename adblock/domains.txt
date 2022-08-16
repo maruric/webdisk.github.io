@@ -26,6 +26,7 @@
 ||googlesyndication.com^
 ||hananokai.tv^
 ||i-mobile.co.jp^
+||impact-ad.jp^
 ||jads.co^
 ||logly.co.jp^
 ||mangaadpf.jp^

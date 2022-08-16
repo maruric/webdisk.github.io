@@ -35,6 +35,7 @@
 ||pc-adroute.focas.jp^
 ||popin.cc^
 ||realsrv.com^
+||rtbrennab.com^
 ||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^

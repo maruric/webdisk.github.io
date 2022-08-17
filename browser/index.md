@@ -25,6 +25,11 @@ order: 6
 - [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/uaswitcher/)
 - [Offline QR Code Generator](https://addons.mozilla.org/ja/firefox/addon/offline-qr-code-generator/)
 
+## Adblock
+
+- [Domains filter](domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}domains.txt&title=Domains%20filter))
+- [Elements filter](elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}elements.txt&title=Elements%20filter))
+
 ## Search Plugins
 
 - [Google](/?search-title=Google&search-href=/browser/searchplugins/google.xml)

@@ -27,8 +27,8 @@ order: 6
 
 ## Adblock
 
-- [Domains filter](domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}domains.txt&title=Domains%20filter))
-- [Elements filter](elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}elements.txt&title=Elements%20filter))
+- [Domains filter](domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/domains.txt&title=Domains%20filter))
+- [Elements filter](elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/elements.txt&title=Elements%20filter))
 
 ## Search Plugins
 

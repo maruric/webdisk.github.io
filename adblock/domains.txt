@@ -1,4 +1,5 @@
 ! Title: Domains filter
+||a8.net^
 ||aaacompany.net^
 ||aag.yahooapis.jp^
 ||ad-nex.com^

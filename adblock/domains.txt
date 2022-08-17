@@ -9,6 +9,7 @@
 ||adingo.jp^
 ||admatrix.jp^
 ||adpon.jp^
+||ads.nicovideo.jp^
 ||adsmoloco.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^

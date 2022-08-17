@@ -36,7 +36,6 @@ order: 6
 - [Google マップ](/?search-title=Google マップ&search-href=/browser/searchplugins/google-map.xml)
 - [DeepL](/?search-title=DeepL&search-href=/browser/searchplugins/deepl.xml)
 - [Google 翻訳](/?search-title=Google 翻訳&search-href=/browser/searchplugins/google-translate.xml)
-- [Bing 翻訳](/?search-title=Bing 翻訳&search-href=/browser/searchplugins/bing-translator.xml)
 - [コトバンク](/?search-title=コトバンク&search-href=/browser/searchplugins/kotobank.xml)
 - [goo辞書](/?search-title=goo辞書&search-href=/browser/searchplugins/goo-dictionary.xml)
 - [英辞郎 on the WEB](/?search-title=英辞郎 on the WEB&search-href=/browser/searchplugins/eijiro.xml)

@@ -8,7 +8,7 @@ function main() {
   const link = document.createElement("link");
   link.rel = "search";
   link.type = "application/opensearchdescription+xml";
-  link.title = title;
+  link.title = title + " ";
   link.href = href;
   document.head.appendChild(link);
 }

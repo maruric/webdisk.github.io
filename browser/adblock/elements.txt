@@ -9,6 +9,7 @@
 ||youtube.com^*=adunit&
 search.yahoo.co.jp##.AD__SSList
 search.yahoo.co.jp##.SS_SS__3DT4t
+www.google.com,www.google.co.jp##.D1fz0e
 www.google.com,www.google.co.jp##.uEierd
 www.google.com,www.google.co.jp###tvcap
 www.yahoo.co.jp###TBP

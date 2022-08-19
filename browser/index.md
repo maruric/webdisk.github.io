@@ -2,6 +2,7 @@
 layout: default
 title: Browser
 order: 6
+scripts: copy-search-url.mjs
 ---
 
 
@@ -31,7 +32,7 @@ order: 6
 
 ## Search Plugins
 
-- [Google](/?search-title=Google&search-href=/browser/searchplugins/google.xml)
+- [Google](/?search-title=Google&search-href=/browser/searchplugins/google.xml) [Copy](javascript:copySearchUrl(searchplugins/google.xml))
 - [Yahoo!検索](/?search-title=Yahoo!検索&search-href=/browser/searchplugins/yahoo.xml)
 - [Bing](/?search-title=Bing&search-href=/browser/searchplugins/bing.xml)
 - [DuckDuckGo](/?search-title=DuckDuckGo&search-href=/browser/searchplugins/duckduckgo.xml)

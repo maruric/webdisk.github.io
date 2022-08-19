@@ -26,7 +26,6 @@ order: 6
 
 ## Adblock
 
-- [AdGuard DNS filter without privacy filters](https://github.com/kitadai31/AdGuardSDNSFilter_withoutPrivacyFilters) ([Subscribe](abp://subscribe/?location=https://raw.githubusercontent.com/kitadai31/AdGuardSDNSFilter_withoutPrivacyFilters/master/Filters/filter.txt&title=AdGuard DNS filter without privacy filters))
 - [Domains filter](adblock/domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/domains.txt&title=Domains filter))
 - [Elements filter](adblock/elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/elements.txt&title=Elements filter))
 

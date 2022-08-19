@@ -1,4 +1,4 @@
-function main() {
+(function() {
   if (!navigator.userAgent.includes('Android')) {
     return;
   }
@@ -8,6 +8,4 @@ function main() {
   for (const link of links) {
     link.href = link.href.replace(pattern, toStr);
   }
-}
-
-main();
+})();

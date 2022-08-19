@@ -1,4 +1,4 @@
-function main() {
+(function() {
   const url = new URL(window.location.href);
   const title = url.searchParams.get("search-title");
   const href = url.searchParams.get("search-href");
@@ -11,6 +11,4 @@ function main() {
   link.title = title + " ";
   link.href = href;
   document.head.appendChild(link);
-}
-
-main();
+})();

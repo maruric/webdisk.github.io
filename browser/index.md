@@ -65,11 +65,6 @@ searchplugins:
 {% endfor %}
 </ul>
 
-
-{% for item in page.searchplugins %}
-- [{{item.title}}](/?search-title={{item.title}}&search-href=/browser/searchplugins/{{item.id}}.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/{{item.id}}.xml'))
-{% endfor %}
-
 ## Cookie Exclusions
 
 - accounts.google.com

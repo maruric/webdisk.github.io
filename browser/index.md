@@ -2,7 +2,7 @@
 layout: default
 title: Browser
 order: 6
-scripts: copy-search-url.mjs
+scripts: copy-search-url.js
 ---
 
 

@@ -1,6 +1,9 @@
 async function copySearchUrl(url) {
   try {
     const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to get ${url}`);
+    }
     const text = await response.text();
     const parser = new DOMParser();
     const xml = parser.parseFromString(text, 'text/xml');

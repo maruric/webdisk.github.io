@@ -2,7 +2,7 @@ async function copySearchUrl(url) {
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      throw new Error(`${response.status} ${response.statusText}: ${url}`);
+      throw new Error(`Failed to fetch url (${response.status}): ${url}`);
     }
     const text = await response.text();
     const parser = new DOMParser();

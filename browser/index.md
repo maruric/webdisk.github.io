@@ -3,6 +3,11 @@ layout: default
 title: Browser
 order: 6
 scripts: copy-search-url.js
+searchplugins:
+  - id: google
+    title: Google
+  - id: yahoo
+    title: Yahoo!検索
 ---
 
 
@@ -29,6 +34,12 @@ scripts: copy-search-url.js
 
 - [Domains filter](adblock/domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/domains.txt&title=Domains filter))
 - [Elements filter](adblock/elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/elements.txt&title=Elements filter))
+
+## Search Plugins
+
+{% for item in page.searchplugins %}
+- [{{item.title}}](/?search-title={{item.title}}&search-href=/browser/searchplugins/{{item.id}}.xml)
+{% endfor %}
 
 ## Search Plugins
 

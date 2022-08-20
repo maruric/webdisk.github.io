@@ -1,4 +1,4 @@
-(function() {
+window.addEventListener('DOMContentLoaded', () => {
   if (!navigator.userAgent.includes('Android')) {
     return;
   }
@@ -8,4 +8,4 @@
   for (const link of links) {
     link.href = link.href.replace(pattern, toStr);
   }
-})();
+});

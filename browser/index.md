@@ -4,37 +4,38 @@ title: Browser
 order: 6
 scripts: /assets/scripts/copy-search-url.js
 adblock_filters:
-  - id: domains
-    title: Domains filter
-  - id: elements
-    title: Elements filter
+  - title: Domains filter
+    href: domains.txt
+  - title: Elements filter
+    href: elements.txt
 searchplugins:
-  - id: google
-    title: Google
-  - id: yahoo
-    title: Yahoo!検索
-  - id: bing
-    title: Bing
-  - id: duckduckgo
-    title: DuckDuckGo
-  - id: twitter
-    title: Twitter
-  - id: wikipedia
-    title: Wikipedia
-  - id: google-map
-    title: Google マップ
-  - id: deepl
-    title: DeepL
-  - id: google-translate
-    title: Google 翻訳
-  - id: kotobank
-    title: コトバンク
-  - id: goo-dictionary
-    title: goo辞書
-  - id: eijiro
-    title: 英辞郎 on the WEB
-  - id: 5ch
-    title: 5chスレタイ検索
+  - title: Google
+    href: searchplugins/google.xml
+  - title: Yahoo!検索
+    href: searchplugins/yahoo.xml
+  - title: Bing
+    href: searchplugins/bing.xml
+  - title: DuckDuckGo
+    href: searchplugins/duckduckgo.xml
+  - title: Twitter
+    href: searchplugins/twitter.xml
+  - title: Wikipedia
+    href: searchplugins/wikipedia.xml
+  - title: Google マップ
+    href: searchplugins/google-map.xml
+  - title: DeepL
+    href: searchplugins/deepl.xml
+  - title: Google 翻訳
+    href: searchplugins/google-translate.xml
+  - title: コトバンク
+    href: searchplugins/kotobank.xml
+  - title: goo辞書
+    href: searchplugins/goo-dictionary.xml
+  - title: 英辞郎 on the WEB
+    href: searchplugins/eijiro.xml
+  - title: 5chスレタイ検索
+    href: searchplugins/5ch.xml
+
 ---
 
 
@@ -62,22 +63,19 @@ searchplugins:
 <ul>
 {% for item in page.adblock_filters %}
 <li>
-  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}adblock/{{ item.id }}.txt&title={{ item.title }}">{{item.title}}</a>
-  <a href="adblock/{{ item.id }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#code"></use></svg></a>
+  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}adblock/{{ item.href }}&title={{ item.title }}">{{item.title}}</a>
+  <a href="adblock/{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
 </li>
 {% endfor %}
 </ul>
-
-- [Domains filter](adblock/domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/domains.txt&title=Domains filter))
-- [Elements filter](adblock/elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/elements.txt&title=Elements filter))
 
 ## Search Plugins
 
 <ul>
 {% for item in page.searchplugins %}
 <li>
-  <a href="/?search-title={{ item.title }}&search-href=/browser/searchplugins/{{ item.id }}.xml">{{ item.title }}</a>
-  <a href="javascript:copySearchUrl('searchplugins/{{ item.id }}.xml')"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
+  <a href="/?search-title={{ item.title }}&search-href={{ page.dir }}{{ item.href }}">{{ item.title }}</a>
+  <a href="javascript:copySearchUrl('{{ item.href }}')"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
 </li>
 {% endfor %}
 </ul>

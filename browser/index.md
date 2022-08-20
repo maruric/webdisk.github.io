@@ -8,8 +8,8 @@ searchplugins:
     title: Google
   - id: yahoo
     title: Yahoo!検索
-  - id: Bing
-    title: bing
+  - id: bing
+    title: Bing
   - id: duckduckgo
     title: DuckDuckGo
   - id: twitter
@@ -20,12 +20,12 @@ searchplugins:
     title: Google マップ
   - id: deepl
     title: DeepL
-  - id: Google 翻訳
-    title: google-translate
+  - id: google-translate
+    title: Google 翻訳
   - id: kotobank
     title: コトバンク
-  - id: goo辞書
-    title: goo-dictionary
+  - id: goo-dictionary
+    title: goo辞書
   - id: eijiro
     title: 英辞郎 on the WEB
   - id: 5ch

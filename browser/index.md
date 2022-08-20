@@ -5,9 +5,9 @@ order: 6
 scripts: /assets/scripts/copy-search-url.js
 adblock_filters:
   - title: Domains filter
-    href: domains.txt
+    href: adblock/domains.txt
   - title: Elements filter
-    href: elements.txt
+    href: adblock/elements.txt
 searchplugins:
   - title: Google
     href: searchplugins/google.xml
@@ -35,7 +35,6 @@ searchplugins:
     href: searchplugins/eijiro.xml
   - title: 5chスレタイ検索
     href: searchplugins/5ch.xml
-
 ---
 
 
@@ -63,8 +62,8 @@ searchplugins:
 <ul>
 {% for item in page.adblock_filters %}
 <li>
-  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}adblock/{{ item.href }}&title={{ item.title }}">{{item.title}}</a>
-  <a href="adblock/{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
+  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}{{ item.href }}&title={{ item.title }}">{{item.title}}</a>
+  <a href="{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
 </li>
 {% endfor %}
 </ul>

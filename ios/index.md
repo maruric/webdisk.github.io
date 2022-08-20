@@ -6,7 +6,6 @@ order: 4
 
 ## Applications
 
-
 ### Dock
 
 - ブラウザ

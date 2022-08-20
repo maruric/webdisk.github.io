@@ -32,7 +32,7 @@ scripts: copy-search-url.js
 
 ## Search Plugins
 
-- [Google](/?search-title=Google&search-href=/browser/searchplugins/google.xml) [<svg><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/google.xml'))
+- [Google](/?search-title=Google&search-href=/browser/searchplugins/google.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/google.xml'))
 - [Yahoo!検索](/?search-title=Yahoo!検索&search-href=/browser/searchplugins/yahoo.xml)
 - [Bing](/?search-title=Bing&search-href=/browser/searchplugins/bing.xml)
 - [DuckDuckGo](/?search-title=DuckDuckGo&search-href=/browser/searchplugins/duckduckgo.xml)

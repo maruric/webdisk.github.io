@@ -1,6 +1,6 @@
 ---
 layout: default
-scripts: add-opensearch-link.js
+scripts: /assets/scripts/add-opensearch-link.js
 ---
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}

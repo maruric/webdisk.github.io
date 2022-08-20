@@ -8,6 +8,28 @@ searchplugins:
     title: Google
   - id: yahoo
     title: Yahoo!検索
+  - id: Bing
+    title: bing
+  - id: duckduckgo
+    title: DuckDuckGo
+  - id: twitter
+    title: Twitter
+  - id: wikipedia
+    title: Wikipedia
+  - id: google-map
+    title: Google マップ
+  - id: deepl
+    title: DeepL
+  - id: Google 翻訳
+    title: google-translate
+  - id: kotobank
+    title: コトバンク
+  - id: goo辞書
+    title: goo-dictionary
+  - id: eijiro
+    title: 英辞郎 on the WEB
+  - id: 5ch
+    title: 5chスレタイ検索
 ---
 
 
@@ -38,7 +60,7 @@ searchplugins:
 ## Search Plugins
 
 {% for item in page.searchplugins %}
-- [{{item.title}}](/?search-title={{item.title}}&search-href=/browser/searchplugins/{{item.id}}.xml)
+- [{{item.title}}](/?search-title={{item.title}}&search-href=/browser/searchplugins/{{item.id}}.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/{{item.id}}.xml'))
 {% endfor %}
 
 ## Search Plugins

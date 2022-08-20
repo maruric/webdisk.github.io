@@ -2,7 +2,7 @@
 layout: default
 title: Browser
 order: 6
-scripts: copy-search-url.js
+scripts: /assets/scripts/copy-search-url.js
 searchplugins:
   - id: google
     title: Google

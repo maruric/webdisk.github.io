@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+svg {
+  fill: currentColor;
+}
+
 .page-header {
   display: flex;
   justify-content: center;

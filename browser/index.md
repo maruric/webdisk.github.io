@@ -33,18 +33,18 @@ scripts: copy-search-url.js
 ## Search Plugins
 
 - [Google](/?search-title=Google&search-href=/browser/searchplugins/google.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/google.xml'))
-- [Yahoo!検索](/?search-title=Yahoo!検索&search-href=/browser/searchplugins/yahoo.xml)
-- [Bing](/?search-title=Bing&search-href=/browser/searchplugins/bing.xml)
-- [DuckDuckGo](/?search-title=DuckDuckGo&search-href=/browser/searchplugins/duckduckgo.xml)
-- [Twitter](/?search-title=Twitter&search-href=/browser/searchplugins/twitter.xml)
-- [Wikipedia](/?search-title=Wikipedia&search-href=/browser/searchplugins/wikipedia.xml)
-- [Google マップ](/?search-title=Google マップ&search-href=/browser/searchplugins/google-map.xml)
-- [DeepL](/?search-title=DeepL&search-href=/browser/searchplugins/deepl.xml)
-- [Google 翻訳](/?search-title=Google 翻訳&search-href=/browser/searchplugins/google-translate.xml)
-- [コトバンク](/?search-title=コトバンク&search-href=/browser/searchplugins/kotobank.xml)
-- [goo辞書](/?search-title=goo辞書&search-href=/browser/searchplugins/goo-dictionary.xml)
-- [英辞郎 on the WEB](/?search-title=英辞郎 on the WEB&search-href=/browser/searchplugins/eijiro.xml)
-- [5chスレタイ検索](/?search-title=5chスレタイ検索&search-href=/browser/searchplugins/5ch.xml)
+- [Yahoo!検索](/?search-title=Yahoo!検索&search-href=/browser/searchplugins/yahoo.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/yahoo.xml'))
+- [Bing](/?search-title=Bing&search-href=/browser/searchplugins/bing.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/bing.xml'))
+- [DuckDuckGo](/?search-title=DuckDuckGo&search-href=/browser/searchplugins/duckduckgo.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/duckduckgo.xml'))
+- [Twitter](/?search-title=Twitter&search-href=/browser/searchplugins/twitter.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/twitter.xml'))
+- [Wikipedia](/?search-title=Wikipedia&search-href=/browser/searchplugins/wikipedia.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/wikipedia.xml'))
+- [Google マップ](/?search-title=Google マップ&search-href=/browser/searchplugins/google-map.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/google-map.xml'))
+- [DeepL](/?search-title=DeepL&search-href=/browser/searchplugins/deepl.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/deepl.xml'))
+- [Google 翻訳](/?search-title=Google 翻訳&search-href=/browser/searchplugins/google-translate.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/google-translate.xml'))
+- [コトバンク](/?search-title=コトバンク&search-href=/browser/searchplugins/kotobank.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/kotobank.xml'))
+- [goo辞書](/?search-title=goo辞書&search-href=/browser/searchplugins/goo-dictionary.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/goo-dictionary.xml'))
+- [英辞郎 on the WEB](/?search-title=英辞郎 on the WEB&search-href=/browser/searchplugins/eijiro.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/eijiro.xml'))
+- [5chスレタイ検索](/?search-title=5chスレタイ検索&search-href=/browser/searchplugins/5ch.xml) [<svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"/></svg>](javascript:copySearchUrl('searchplugins/5ch.xml'))
 
 ## Cookie Exclusions
 

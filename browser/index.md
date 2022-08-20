@@ -3,6 +3,11 @@ layout: default
 title: Browser
 order: 6
 scripts: /assets/scripts/copy-search-url.js
+adblock_filters:
+  - id: domains
+    title: Domains filter
+  - id: elements
+    title: Elements filter
 searchplugins:
   - id: google
     title: Google
@@ -54,6 +59,15 @@ searchplugins:
 
 ## Adblock
 
+<ul>
+{% for item in page.adblock_filters %}
+<li>
+  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}adblock/{{ item.id }}.txt&title={{ item.title }}">{{item.title}}</a>
+  <a href="adblock/{{ item.id }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#code"></use></svg></a>
+</li>
+{% endfor %}
+</ul>
+
 - [Domains filter](adblock/domains.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/domains.txt&title=Domains filter))
 - [Elements filter](adblock/elements.txt) ([Subscribe](abp://subscribe/?location={{ page.dir | absolute_url }}adblock/elements.txt&title=Elements filter))
 
@@ -61,7 +75,10 @@ searchplugins:
 
 <ul>
 {% for item in page.searchplugins %}
-<li><a href="/?search-title={{item.title}}&search-href=/browser/searchplugins/{{item.id}}.xml">{{item.title}}</a> <a href="javascript:copySearchUrl('searchplugins/{{item.id}}.xml')"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a></li>
+<li>
+  <a href="/?search-title={{ item.title }}&search-href=/browser/searchplugins/{{ item.id }}.xml">{{ item.title }}</a>
+  <a href="javascript:copySearchUrl('searchplugins/{{ item.id }}.xml')"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
+</li>
 {% endfor %}
 </ul>
 

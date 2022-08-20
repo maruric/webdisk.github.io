@@ -37,7 +37,6 @@ searchplugins:
     href: searchplugins/5ch.xml
 ---
 
-
 ## Extension
 
 ### Chrome
@@ -62,8 +61,8 @@ searchplugins:
 <ul>
 {% for item in page.adblock_filters %}
 <li>
-  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}{{ item.href }}&title={{ item.title }}">{{item.title}}</a>
-  <a href="{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
+  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}{{ item.href }}&title={{ item.title }}">{{ item.title }}</a>
+  <a href="{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#code"></use></svg></a>
 </li>
 {% endfor %}
 </ul>
@@ -74,6 +73,7 @@ searchplugins:
 {% for item in page.searchplugins %}
 <li>
   <a href="/?search-title={{ item.title }}&search-href={{ page.dir }}{{ item.href }}">{{ item.title }}</a>
+  <a href="{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#code"></use></svg></a>
   <a href="javascript:copySearchUrl('{{ item.href }}')"><svg class="icon"><use xlink:href="/assets/images/icons.svg#copy"></use></svg></a>
 </li>
 {% endfor %}

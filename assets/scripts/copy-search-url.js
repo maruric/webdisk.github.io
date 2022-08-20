@@ -1,4 +1,4 @@
-function copySearchUrl(url) {
+async function copySearchUrl(url) {
   try {
     const response = await fetch(url);
     const text = await response.text();

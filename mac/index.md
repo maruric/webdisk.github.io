@@ -92,8 +92,3 @@ anyenv install nodenv
 anyenv install pyenv
 anyenv install goenv
 ```
-
-## Config
-
-- [.ssh/config](ssh/config)
-- [.gitconfig](gitconfig)

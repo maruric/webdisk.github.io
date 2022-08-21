@@ -72,8 +72,6 @@ winget install --exact --id=Git.Git
 winget install --exact --id=Atlassian.Sourcetree
 winget install --exact --id=OpenJS.NodeJS.LTS
 winget install --exact --id=Rustlang.Rustup
-winget install --exact --id=Python.Python.3
-winget install --exact --id=GoLang.Go
 ```
 
 - [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools)

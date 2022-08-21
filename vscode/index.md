@@ -53,9 +53,6 @@ code --install-extension esbenp.prettier-vscode
 
 # Rust
 code --install-extension rust-lang.rust-analyzer
-
-# Dart
-code --install-extension Dart-Code.dart-code
 ```
 
 ### Themes

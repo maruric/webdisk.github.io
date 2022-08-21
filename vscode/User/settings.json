@@ -58,15 +58,8 @@
   "[rust]": {
     "editor.tabSize": 4
   },
-  "[dart]": {
-    "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"]
-  },
-  "[python]": {
-    "editor.tabSize": 4
-  },
-  "python.linting.pylintCategorySeverity.refactor": "Warning",
-  "python.linting.pylintUseMinimalCheckers": false,
   "markdownlint.config": {
+    "MD033": false,
     "MD024": {
       "siblings_only": true
     }

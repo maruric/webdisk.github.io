@@ -11,8 +11,8 @@ order: 2
 ### Browser
 
 ```console
-brew cask install firefox
 brew cask install google-chrome
+brew cask install firefox
 ```
 
 ### Tool
@@ -89,6 +89,4 @@ brew cask install font-source-han-mono
 
 ```console
 anyenv install nodenv
-anyenv install pyenv
-anyenv install goenv
 ```

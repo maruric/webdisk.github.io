@@ -40,6 +40,7 @@
 ||microad.net^
 ||moshimo.com^
 ||msmstatic.com^
+||mt34iofvjay.com^
 ||okbp.xyz^
 ||outbrain.com^
 ||pc-adroute.focas.jp^

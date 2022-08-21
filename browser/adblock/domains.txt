@@ -11,6 +11,7 @@
 ||adpon.jp^
 ||ads.nicovideo.jp^
 ||adsmoloco.com^
+||adxadserv.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
 ||amazon-adsystem.com^

@@ -41,7 +41,7 @@ searchplugins:
 
 ### Chrome
 
-- [Clean All](https://chrome.google.com/webstore/detail/elidgjfpciimeeeoeneeiifkmhadhkeh)
+- [Clean All](https://chrome.google.com/webstore/detail/pooaemmkohlphkekccfajnbcokjlbehk)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [miniGestures](https://chrome.google.com/webstore/detail/apnjnepphihnjahpbfjiebcnpgmjnhfp)

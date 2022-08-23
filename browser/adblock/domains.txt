@@ -19,6 +19,7 @@
 ||boost-next.co.jp^
 ||caprofitx.com^
 ||cxense.com^
+||dlv.itmedia.jp^
 ||doubleclick.net^
 ||exosrv.com^
 ||fam-8.net^

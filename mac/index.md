@@ -49,12 +49,6 @@ brew cask install vlc
 
 - [Amazon Prime Video](https://apps.apple.com/jp/app/id545519333)
 
-### Study
-
-```console
-brew cask install anki
-```
-
 ### Photo
 
 ```console

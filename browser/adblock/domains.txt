@@ -50,6 +50,7 @@
 ||ptgncdn.com^
 ||realsrv.com^
 ||rtbrennab.com^
+||seedtag.com^
 ||smac-ad.com^
 ||smartnews-ads.com^
 ||socdm.com^

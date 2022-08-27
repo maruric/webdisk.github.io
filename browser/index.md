@@ -5,9 +5,9 @@ order: 6
 scripts: /assets/scripts/copy-search-url.js
 adblock_filters:
   - title: Domains filter
-    href: adblock/domains.txt
+    href: ./adblock/domains.txt
   - title: Elements filter
-    href: adblock/elements.txt
+    href: ./adblock/elements.txt
 searchplugins:
   - title: Google
     href: searchplugins/google.xml

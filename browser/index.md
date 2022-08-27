@@ -61,7 +61,7 @@ searchplugins:
 <ul>
 {% for item in page.adblock_filters %}
 <li>
-  <a href="abp://subscribe/?location={{ item.href }}&title={{ item.title }}">{{ item.title }}</a>
+  <a href="abp://subscribe/?location={{ item.href | absolute_url }}&title={{ item.title }}">{{ item.title }}</a>
   <a href="{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#code"></use></svg></a>
 </li>
 {% endfor %}

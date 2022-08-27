@@ -5,9 +5,9 @@ order: 6
 scripts: /assets/scripts/copy-search-url.js
 adblock_filters:
   - title: Domains filter
-    href: adblock/domains.txt
+    href: {{ page.dir | absolute_url }}adblock/domains.txt
   - title: Elements filter
-    href: adblock/elements.txt
+    href: {{ page.dir | absolute_url }}adblock/elements.txt
 searchplugins:
   - title: Google
     href: searchplugins/google.xml
@@ -61,7 +61,7 @@ searchplugins:
 <ul>
 {% for item in page.adblock_filters %}
 <li>
-  <a href="abp://subscribe/?location={{ page.dir | absolute_url }}{{ item.href }}&title={{ item.title }}">{{ item.title }}</a>
+  <a href="abp://subscribe/?location={{ item.href }}&title={{ item.title }}">{{ item.title }}</a>
   <a href="{{ item.href }}"><svg class="icon"><use xlink:href="/assets/images/icons.svg#code"></use></svg></a>
 </li>
 {% endfor %}

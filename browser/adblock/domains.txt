@@ -57,6 +57,7 @@
 ||smartnews-ads.com^
 ||socdm.com^
 ||speee-ad.jp^
+||srtb.msn.com^
 ||startappservice.com^
 ||taboola.com^
 ||taxel.jp^

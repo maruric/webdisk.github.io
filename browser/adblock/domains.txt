@@ -1,0 +1,11 @@
+! Title: Domains filter
+@@||aax-fe.amazon-adsystem.com^
+@@||google-analytics.com^
+@@||googleadservices.com^
+@@||hb.afl.rakuten.co.jp^
+@@||log.suumo.jp^
+@@||lt-click.tr.line.me^
+@@||valuecommerce.com^
+@@||valuecommerce.ne.jp^
+@@||yjtag.jp^
+||yads.c.yimg.jp^

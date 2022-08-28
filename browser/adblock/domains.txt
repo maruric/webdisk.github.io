@@ -1,4 +1,3 @@
 ! Title: Domains filter
 @@||google-analytics.com^
 @@||log.suumo.jp^
-||yads.c.yimg.jp^

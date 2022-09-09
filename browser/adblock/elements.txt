@@ -9,6 +9,8 @@
 ||youtube.com^*=adunit&
 itest.5ch.net##.ad
 itest.5ch.net##.ad_320x50
+itest.5ch.net##.js-cardview_ad-320x180 > div
+itest.5ch.net##.js-cardview_ad-320x50
 itest.5ch.net##.sproutad_frame
 itest.5ch.net##.sproutad_frame-description
 itest.5ch.net###float-bnr

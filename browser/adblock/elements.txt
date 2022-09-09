@@ -7,6 +7,16 @@
 ||youtube.com/pagead/
 ||youtube.com/ptracking?
 ||youtube.com^*=adunit&
+itest.5ch.net##.ad
+itest.5ch.net##.ad_320x50
+itest.5ch.net##.sproutad_frame
+itest.5ch.net##.sproutad_frame-description
+itest.5ch.net###float-bnr
+itest.5ch.net###js-bottom-ad-300x250
+itest.5ch.net###js-bottom-ad-320x250
+itest.5ch.net###js-last_comment_ad
+itest.5ch.net###js-thread-subback-top-ad
+itest.5ch.net###res_ad
 search.yahoo.co.jp##.AD__SSList
 search.yahoo.co.jp##.SS_SS__3DT4t
 www.google.com,www.google.co.jp##.D1fz0e

@@ -1,4 +1,5 @@
 ! Title: Domains filter
 @@||google-analytics.com^
 @@||log.suumo.jp^
+@@||measure.ic.tver.jp^
 ||xml.affiliate.rakuten.co.jp^

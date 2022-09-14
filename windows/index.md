@@ -28,7 +28,7 @@ winget install --exact --id=Balena.Etcher
 - [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
 - [単ZIP](http://kurohane.net/seisanbutu.html)
 - [VirtualBox](https://www.virtualbox.org/)
-- [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v26-1.3889604/)
+- [Fire Toolbox](https://forum.xda-developers.com/t/3889604/)
 
 ### Document
 

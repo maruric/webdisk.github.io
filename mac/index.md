@@ -17,9 +17,6 @@ brew install --cask karabiner-elements
 brew install --cask openinterminal-lite
 brew install --cask openineditor-lite
 brew install --cask keka
-brew install --cask balenaetcher
-brew install --cask virtualbox
-brew install --cask hex-fiend
 ```
 
 - [OpenInTerminal-Lite README](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
@@ -68,6 +65,14 @@ brew install --cask sourcetree
 brew install nodenv
 brew install --cask docker
 brew install rustup
+```
+
+### Other Tools
+
+```console
+brew install --cask balenaetcher
+brew install --cask virtualbox
+brew install --cask hex-fiend
 ```
 
 ### Font

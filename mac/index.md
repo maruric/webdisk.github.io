@@ -65,7 +65,7 @@ brew install --cask amazon-photos
 ```console
 brew install git
 brew install --cask sourcetree
-brew install anyenv
+brew install nodenv
 brew install --cask docker
 brew install rustup
 ```
@@ -77,12 +77,4 @@ brew tap homebrew/cask-fonts
 brew install --cask font-source-han-sans
 brew install --cask font-source-han-serif
 brew install --cask font-source-han-mono
-```
-
-## Anyenv
-
-<https://github.com/anyenv/anyenv>
-
-```console
-anyenv install nodenv
 ```

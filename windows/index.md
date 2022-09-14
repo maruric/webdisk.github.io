@@ -41,7 +41,7 @@ winget install --exact --id=VideoLAN.VLC
 
 - [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
 
-### CLI
+### CLI Tools
 
 - [ExifTool](https://exiftool.org/)
 - [jhead](https://www.sentex.ca/~mwandel/jhead/)
@@ -62,7 +62,7 @@ winget install --exact --id=Rustlang.Rustup
 
 - [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 
-## Other
+## Other Tools
 
 ```console
 winget install --exact --id=Balena.Etcher

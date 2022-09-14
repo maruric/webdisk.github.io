@@ -41,7 +41,9 @@ winget install --exact --id=VideoLAN.VLC
 
 ### Cloud
 
-- [Google Drive](https://www.google.com/drive/download/)
+```console
+winget install --exact --id=Google.Drive
+```
 - [Amazon Photos](https://www.amazon.co.jp/b?node=5262651051)
 
 ### Development

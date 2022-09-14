@@ -24,7 +24,7 @@ brew install --cask google-drive
 brew install --cask amazon-photos
 ```
 
-- [OpenInTerminal-Lite](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
+- [OpenInTerminal-Lite README](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
 
 ### Browser
 

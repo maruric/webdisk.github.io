@@ -13,7 +13,6 @@ order: 1
 ```console
 winget install --exact --id=Microsoft.WindowsTerminal
 winget install --exact --id=7zip.7zip
-winget install --exact --id=Balena.Etcher
 ```
 
 - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
@@ -66,6 +65,7 @@ winget install --exact --id=Rustlang.Rustup
 ## Other
 
 ```console
+winget install --exact --id=Balena.Etcher
 winget install --exact --id=VMware.WorkstationPlayer
 ```
 

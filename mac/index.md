@@ -43,13 +43,6 @@ brew install --cask inkscape
 brew install --cask vlc
 ```
 
-### CLI
-
-```console
-brew install exiftool
-brew install jhead
-```
-
 ### Cloud
 
 ```
@@ -67,12 +60,19 @@ brew install --cask docker
 brew install rustup
 ```
 
-### Other Tools
+### Other GUI Tools
 
 ```console
 brew install --cask balenaetcher
 brew install --cask virtualbox
 brew install --cask hex-fiend
+```
+
+### Other CLI Tools
+
+```console
+brew install exiftool
+brew install jhead
 ```
 
 ### Font

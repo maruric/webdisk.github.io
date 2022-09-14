@@ -41,11 +41,6 @@ winget install --exact --id=VideoLAN.VLC
 
 - [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
 
-### CLI Tools
-
-- [ExifTool](https://exiftool.org/)
-- [jhead](https://www.sentex.ca/~mwandel/jhead/)
-
 ### Cloud
 
 - [Google Drive](https://www.google.com/drive/download/)
@@ -62,7 +57,7 @@ winget install --exact --id=Rustlang.Rustup
 
 - [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
 
-## Other Tools
+### Other GUI Tools
 
 ```console
 winget install --exact --id=Balena.Etcher
@@ -75,7 +70,12 @@ winget install --exact --id=VMware.WorkstationPlayer
 - [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
 - [Fire Toolbox](https://forum.xda-developers.com/t/3889604/)
 
-## Fonts
+### Other CLI Tools
+
+- [ExifTool](https://exiftool.org/)
+- [jhead](https://www.sentex.ca/~mwandel/jhead/)
+
+### Fonts
 
 - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 - [Source Han Mono](https://github.com/adobe-fonts/source-han-mono)

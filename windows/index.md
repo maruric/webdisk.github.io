@@ -15,8 +15,6 @@ winget install --exact --id=Microsoft.WindowsTerminal
 winget install --exact --id=7zip.7zip
 ```
 
-- [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
-
 ### Browser
 
 ```console
@@ -64,6 +62,7 @@ winget install --exact --id=Balena.Etcher
 winget install --exact --id=VMware.WorkstationPlayer
 ```
 
+- [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
 - [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
 - [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
 - [単ZIP](http://kurohane.net/seisanbutu.html)

@@ -20,8 +20,6 @@ brew install --cask keka
 brew install --cask balenaetcher
 brew install --cask virtualbox
 brew install --cask hex-fiend
-brew install --cask google-drive
-brew install --cask amazon-photos
 ```
 
 - [OpenInTerminal-Lite README](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
@@ -53,6 +51,13 @@ brew install --cask vlc
 ```console
 brew install exiftool
 brew install jhead
+```
+
+### Cloud
+
+```
+brew install --cask google-drive
+brew install --cask amazon-photos
 ```
 
 ### Development

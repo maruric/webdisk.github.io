@@ -17,12 +17,6 @@ winget install --exact --id=Balena.Etcher
 ```
 
 - [Turn Off Monitor](https://sourceforge.net/projects/turnoffmonitor/)
-- [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
-- [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
-- [単ZIP](http://kurohane.net/seisanbutu.html)
-- [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
-- [VirtualBox](https://www.virtualbox.org/)
-- [Fire Toolbox](https://forum.xda-developers.com/t/3889604/)
 
 ### Browser
 
@@ -68,6 +62,18 @@ winget install --exact --id=Rustlang.Rustup
 ```
 
 - [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools)
+
+## Other
+
+```console
+winget install --exact --id=VMware.WorkstationPlayer
+```
+
+- [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
+- [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
+- [単ZIP](http://kurohane.net/seisanbutu.html)
+- [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
+- [Fire Toolbox](https://forum.xda-developers.com/t/3889604/)
 
 ## Fonts
 

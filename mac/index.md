@@ -47,8 +47,6 @@ brew install --cask gimp
 brew install --cask vlc
 ```
 
-- [Amazon Prime Video](https://apps.apple.com/jp/app/id545519333)
-
 ### Photo
 
 ```console

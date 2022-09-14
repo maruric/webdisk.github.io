@@ -8,14 +8,7 @@ order: 2
 
 <https://brew.sh>
 
-### Browser
-
-```console
-brew install --cask google-chrome
-brew install --cask firefox
-```
-
-### Tool
+### System
 
 ```console
 brew install --cask appcleaner
@@ -27,31 +20,37 @@ brew install --cask keka
 brew install --cask balenaetcher
 brew install --cask virtualbox
 brew install --cask hex-fiend
+brew install --cask google-drive
+brew install --cask amazon-photos
 ```
 
-- [OpenInTerminal-Lite README](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
+- [OpenInTerminal-Lite](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
 
-### Document
+### Browser
+
+```console
+brew install --cask google-chrome
+brew install --cask firefox
+```
+
+### Editor
 
 ```console
 brew install --cask visual-studio-code
 brew install --cask libreoffice
 brew install --cask gimp
+brew install --cask inkscape
 ```
 
-- [Inkscape](https://inkscape.org/)
-
-### Video
+### Viewer
 
 ```console
 brew install --cask vlc
 ```
 
-### Photo
+### CLI
 
 ```console
-brew install --cask google-backup-and-sync
-brew install --cask amazon-photos
 brew install exiftool
 brew install jhead
 ```

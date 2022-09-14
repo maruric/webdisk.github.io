@@ -8,14 +8,7 @@ order: 1
 
 <https://github.com/microsoft/winget-cli>
 
-### Browser
-
-```console
-winget install --exact --id=Google.Chrome
-winget install --exact --id=Mozilla.Firefox
-```
-
-### Tool
+### System
 
 ```console
 winget install --exact --id=Microsoft.WindowsTerminal
@@ -27,10 +20,18 @@ winget install --exact --id=Balena.Etcher
 - [Flexible Renamer](http://www.vector.co.jp/soft/winnt/util/se131133.html)
 - [Stirling](http://www.vector.co.jp/soft/win95/util/se079072.html)
 - [単ZIP](http://kurohane.net/seisanbutu.html)
+- [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
 - [VirtualBox](https://www.virtualbox.org/)
 - [Fire Toolbox](https://forum.xda-developers.com/t/3889604/)
 
-### Document
+### Browser
+
+```console
+winget install --exact --id=Google.Chrome
+winget install --exact --id=Mozilla.Firefox
+```
+
+### Editor
 
 ```console
 winget install --exact --id=Microsoft.VisualStudioCode
@@ -39,23 +40,23 @@ winget install --exact --id=GIMP.GIMP
 winget install --exact --id=Inkscape.Inkscape
 ```
 
-### Image
-
-- [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
-- [PNGcutdown](http://www.vector.co.jp/soft/win95/prog/se277095.html)
-
-### Photo
-
-- [Google Backup and Sync](https://www.google.com/drive/download/)
-- [Amazon Photos](https://www.amazon.co.jp/b?node=5262651051)
-- [ExifTool](https://exiftool.org/)
-- [jhead](https://www.sentex.ca/~mwandel/jhead/)
-
-### Video
+### Viewer
 
 ```console
 winget install --exact --id=VideoLAN.VLC
 ```
+
+- [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
+
+### CLI
+
+- [ExifTool](https://exiftool.org/)
+- [jhead](https://www.sentex.ca/~mwandel/jhead/)
+
+### Cloud
+
+- [Google Drive](https://www.google.com/drive/download/)
+- [Amazon Photos](https://www.amazon.co.jp/b?node=5262651051)
 
 ### Development
 

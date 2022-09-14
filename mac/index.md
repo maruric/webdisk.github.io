@@ -11,22 +11,22 @@ order: 2
 ### Browser
 
 ```console
-brew cask install google-chrome
-brew cask install firefox
+brew install --cask google-chrome
+brew install --cask firefox
 ```
 
 ### Tool
 
 ```console
-brew cask install appcleaner
-brew cask install bettertouchtool
-brew cask install karabiner-elements
-brew cask install openinterminal-lite
-brew cask install openineditor-lite
-brew cask install keka
-brew cask install balenaetcher
-brew cask install virtualbox
-brew cask install hex-fiend
+brew install --cask appcleaner
+brew install --cask bettertouchtool
+brew install --cask karabiner-elements
+brew install --cask openinterminal-lite
+brew install --cask openineditor-lite
+brew install --cask keka
+brew install --cask balenaetcher
+brew install --cask virtualbox
+brew install --cask hex-fiend
 ```
 
 - [OpenInTerminal-Lite README](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-Lite.md)
@@ -34,9 +34,9 @@ brew cask install hex-fiend
 ### Document
 
 ```console
-brew cask install visual-studio-code
-brew cask install libreoffice
-brew cask install gimp
+brew install --cask visual-studio-code
+brew install --cask libreoffice
+brew install --cask gimp
 ```
 
 - [Inkscape](https://inkscape.org/)
@@ -44,7 +44,7 @@ brew cask install gimp
 ### Video
 
 ```console
-brew cask install vlc
+brew install --cask vlc
 ```
 
 - [Amazon Prime Video](https://apps.apple.com/jp/app/id545519333)
@@ -52,8 +52,8 @@ brew cask install vlc
 ### Photo
 
 ```console
-brew cask install google-backup-and-sync
-brew cask install amazon-photos
+brew install --cask google-backup-and-sync
+brew install --cask amazon-photos
 brew install exiftool
 brew install jhead
 ```
@@ -62,9 +62,9 @@ brew install jhead
 
 ```console
 brew install git
-brew cask install sourcetree
+brew install --cask sourcetree
 brew install anyenv
-brew cask install docker
+brew install --cask docker
 brew install rustup
 ```
 
@@ -72,9 +72,9 @@ brew install rustup
 
 ```console
 brew tap homebrew/cask-fonts
-brew cask install font-source-han-sans
-brew cask install font-source-han-serif
-brew cask install font-source-han-mono
+brew install --cask font-source-han-sans
+brew install --cask font-source-han-serif
+brew install --cask font-source-han-mono
 ```
 
 ## Anyenv

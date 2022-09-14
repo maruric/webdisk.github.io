@@ -57,8 +57,6 @@ winget install --exact --id=Inkscape.Inkscape
 winget install --exact --id=VideoLAN.VLC
 ```
 
-- [Amazon Prime Video](https://www.microsoft.com/ja-jp/p/amazon-prime-video-for-windows/9p6rc76msmmj)
-
 ### Development
 
 ```console

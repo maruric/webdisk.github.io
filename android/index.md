@@ -132,6 +132,7 @@ scripts: /assets/scripts/replace-google-play-links.js
 - [THETA+](https://play.google.com/store/apps/details?id=com.thetaplus)
 - [GoPro Quik](https://play.google.com/store/apps/details?id=com.gopro.smarty)
 - [ノハナ](https://play.google.com/store/apps/details?id=jp.co.nohana)
+- [TouchRetouch](https://play.google.com/store/apps/details?id=com.advasoft.touchretouch)
 
 ### Info
 

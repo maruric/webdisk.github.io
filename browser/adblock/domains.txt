@@ -1,4 +1,5 @@
 ! Title: Domains filter
+@@||blog.logrocket.com^
 @@||google-analytics.com^
 @@||log.suumo.jp^
 @@||measure.ic.tver.jp^
